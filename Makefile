@@ -3,7 +3,7 @@ PNG = $(SVG).png
 JPEG = $(SVG).jpg
 WEBP = $(SVG).webp
 
-WIDTH = 400
+WIDTH = 600
 
 all: $(PNG) $(JPEG) $(WEBP) $(PHOTO_DEST)
 
