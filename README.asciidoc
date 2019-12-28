@@ -1,11 +1,11 @@
-Captioned Image - "One does not simply cast an American actress for a Britishwoman role."
+Captioned Image - "One does not simply cast an American actress for a Britishwoman’s role."
 =========================================================================================
 
 [id="preview"]
 Preview:
 --------
 
-image::./one-does-not-simply-cast-an-american-actress.svg.webp[One does not simply cast an American actress for a Britishwoman role.]
+image::./one-does-not-simply-cast-an-american-actress.svg.webp[One does not simply cast an American actress for a Britishwoman’s role.]
 
 [id="about"]
 About:
